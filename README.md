@@ -12,3 +12,8 @@ This repository contains the scripts and source files for a Roblox game experien
 - `ServerScriptService/`: Server-side logic and services.
 - `StarterGui/`: Client-side UI and local scripts.
 - `ReplicatedStorage/`: Shared assets and modules.
+
+![Preview 1](image.png)
+![Preview 2](image1.png)
+![Preview 3](image2.png)
+![Preview 4](image3.png)
